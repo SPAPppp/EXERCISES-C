@@ -1,4 +1,4 @@
-//scrivi un programma che presi 10 numeri alla fine dica le posizioni in cui è stato inserito un 8
+//write a program, got 10 numbers, in the end, find the positions where are iserted a number 8
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
